@@ -33,7 +33,7 @@ const App = () => {
         style={backgroundStyle}>
         <Header />
         <View
-        hviyvyvy 
+         
           style={{
             backgroundColor: isDarkMode ? Colors.black : Colors.white,
           }}>
